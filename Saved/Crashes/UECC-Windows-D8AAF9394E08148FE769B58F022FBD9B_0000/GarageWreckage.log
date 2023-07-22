@@ -1,0 +1,1059 @@
+﻿Log file open, 08/25/22 00:52:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10456)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GarageWreckage
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\Chelbsik-NB\Documents\Unreal Projects\GarageWreckage\GarageWreckage.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.856] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 4600H with Radeon Graphics"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="78361fc04d391115c743818d9e3635c3"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.301858
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D8AAF9394E08148FE769B58F022FBD9B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading Linux ini files took 0.07 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.856] (), CPU: AMD Ryzen 5 4600H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.24-21.52.06:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.24-21.52.06:134][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.24-21.52.06:134][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.24-21.52.06:136][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.24-21.52.06:157][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.24-21.52.06:157][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.24-21.52.06:251][  0]LogD3D12RHI: Found D3D12 adapter 0: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.24-21.52.06:251][  0]LogD3D12RHI: Adapter has 495MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 1 output[s]
+[2022.08.24-21.52.06:264][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.24-21.52.06:264][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 0 output[s]
+[2022.08.24-21.52.06:345][  0]LogD3D12RHI: Found D3D12 adapter 2: AMD Radeon(TM) Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.24-21.52.06:345][  0]LogD3D12RHI: Adapter has 495MB of dedicated video memory, 0MB of dedicated system memory, and 7870MB of shared system memory, 0 output[s]
+[2022.08.24-21.52.06:345][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.24-21.52.06:346][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.24-21.52.06:346][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.24-21.52.06:346][  0]LogHAL: Display: Platform has ~ 16 GB [16505966592 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.24-21.52.06:346][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.24-21.52.06:346][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.08.24-21.52.06:346][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.08.24-21.52.06:347][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.08.24-21.52.06:347][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.08.24-21.52.06:347][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.24-21.52.06:347][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.24-21.52.06:347][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.24-21.52.06:347][  0]LogInit: Computer: CHELBSIK-NB
+[2022.08.24-21.52.06:348][  0]LogInit: User: ChelbsikNB
+[2022.08.24-21.52.06:348][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.08.24-21.52.06:348][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.24-21.52.06:348][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.08.24-21.52.06:348][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.24-21.52.06:348][  0]LogMemory: Process Physical Memory: 278.43 MB used, 298.25 MB peak
+[2022.08.24-21.52.06:348][  0]LogMemory: Process Virtual Memory: 231.02 MB used, 231.02 MB peak
+[2022.08.24-21.52.06:348][  0]LogMemory: Physical Memory: 7499.63 MB used,  8241.68 MB free, 15741.32 MB total
+[2022.08.24-21.52.06:348][  0]LogMemory: Virtual Memory: 10001.44 MB used,  21611.88 MB free, 31613.32 MB total
+[2022.08.24-21.52.06:348][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.24-21.52.06:353][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.24-21.52.06:369][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.24-21.52.06:369][  0]LogInit: Using OS detected language (en-US).
+[2022.08.24-21.52.06:369][  0]LogInit: Using OS detected locale (en-US).
+[2022.08.24-21.52.06:373][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.08.24-21.52.06:572][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.24-21.52.06:581][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.24-21.52.06:581][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.08.24-21.52.06:581][  0]LogWindowsTextInputMethodSystem:   - Russian (Russia) - (Keyboard).
+[2022.08.24-21.52.06:581][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.24-21.52.06:597][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.24-21.52.06:597][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.24-21.52.06:727][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.24-21.52.06:727][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.24-21.52.06:800][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.24-21.52.06:822][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.24-21.52.06:823][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.24-21.52.06:837][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.24-21.52.06:854][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.24-21.52.06:854][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.24-21.52.06:882][  0]LogD3D12RHI:     GPU DeviceId: 0x1636 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.24-21.52.06:882][  0]LogWindows: Attached monitors:
+[2022.08.24-21.52.06:882][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.24-21.52.06:882][  0]LogWindows: Found 1 attached monitors.
+[2022.08.24-21.52.06:882][  0]LogWindows: EnumDisplayDevices:
+[2022.08.24-21.52.06:882][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.24-21.52.06:883][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.24-21.52.06:883][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.24-21.52.06:883][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.24-21.52.06:884][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.08.24-21.52.06:884][  0]LogWindows:    5. 'Virtual Display Device' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.08.24-21.52.06:884][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:5 
+[2022.08.24-21.52.06:884][  0]LogD3D12RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2022.08.24-21.52.06:884][  0]LogD3D12RHI:   Driver Version: Adrenalin 2020 22.2.2 (internal:30.0.14029.1011, unified:30.0.14029.1011)
+[2022.08.24-21.52.06:884][  0]LogD3D12RHI:      Driver Date: 2-10-2022
+[2022.08.24-21.52.06:884][  0]LogRHI: Texture pool is 4846 MB (70% of 6923 MB)
+[2022.08.24-21.52.06:884][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.24-21.52.06:884][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.24-21.52.06:910][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/GarageWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/GarageWreckage.uproject"  -platform=all'
+[2022.08.24-21.52.06:910][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/GarageWreckage.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/GarageWreckage.uproject"  -platform=all" ]
+[2022.08.24-21.52.06:936][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.24-21.52.06:945][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.24-21.52.06:945][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.24-21.52.06:954][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.24-21.52.06:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.24-21.52.06:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.24-21.52.06:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.24-21.52.06:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.24-21.52.06:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.24-21.52.06:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.24-21.52.06:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.24-21.52.06:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.24-21.52.06:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.24-21.52.06:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.24-21.52.06:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.24-21.52.06:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.24-21.52.06:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.24-21.52.07:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.24-21.52.07:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.24-21.52.07:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.24-21.52.07:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.24-21.52.07:002][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.24-21.52.07:018][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.24-21.52.07:022][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.24-21.52.07:022][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.24-21.52.07:022][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.24-21.52.07:022][  0]LogTargetPlatformManager:   PCM
+[2022.08.24-21.52.07:026][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.24-21.52.07:026][  0]LogTargetPlatformManager:   BINKA
+[2022.08.24-21.52.07:027][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.24-21.52.07:027][  0]LogTargetPlatformManager:   OGG
+[2022.08.24-21.52.07:027][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.24-21.52.07:027][  0]LogTargetPlatformManager:   OPUS
+[2022.08.24-21.52.07:088][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.24-21.52.07:098][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.24-21.52.07:102][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.24-21.52.07:102][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.24-21.52.07:102][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.24-21.52.07:103][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.24-21.52.07:105][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.24-21.52.07:106][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.24-21.52.07:107][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.24-21.52.07:107][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.24-21.52.07:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.24-21.52.07:113][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.24-21.52.07:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.24-21.52.07:113][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.24-21.52.07:139][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.24-21.52.07:139][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.24-21.52.07:139][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.24-21.52.07:153][  0]LogDerivedDataCache: Speed tests for C:/Users/Chelbsik-NB/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.08.24-21.52.07:153][  0]LogDerivedDataCache: Display: Performance to C:/Users/Chelbsik-NB/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=176.47MBs, RandomWriteSpeed=114.02MBs. Assigned SpeedClass 'Local'
+[2022.08.24-21.52.07:155][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Chelbsik-NB/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.24-21.52.07:155][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.24-21.52.07:155][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.24-21.52.07:164][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.24-21.52.07:164][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.24-21.52.07:165][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Intermediate/Shaders/WorkingDirectory/7952/).
+[2022.08.24-21.52.07:165][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Chelbsik-NB/AppData/Local/Temp/UnrealShaderWorkingDir/154B3C7D4482CF846CADBF9AE2642BF5/'.
+[2022.08.24-21.52.07:165][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.24-21.52.07:165][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.08.24-21.52.08:586][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.24-21.52.08:586][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.24-21.52.08:587][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.24-21.52.08:630][  0]LogAssetRegistry: FAssetRegistry took 0.0175 seconds to start up
+[2022.08.24-21.52.08:638][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.24-21.52.08:919][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.24-21.52.08:920][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.24-21.52.09:289][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.24-21.52.09:289][  0]LogDeviceProfileManager: Active device profile: [00000AA1683163C0][00000AA157F05000 50] WindowsEditor
+[2022.08.24-21.52.09:289][  0]LogDeviceProfileManager: Profiles: [00000AA168315E80][00000AA157F0A000 50] Windows, [00000AA1683163C0][00000AA157F05000 50] WindowsEditor, [00000AA168315400][00000AA157F02800 50] WindowsServer, [00000AA168312680][00000AA157D7A000 50] WindowsClient, [00000AA168312300][00000AA157F07800 50] IOS, [00000AA168316580][00000AA1685A0000 50] iPadAir2, [00000AA168311180][00000AA1685A7800 50] IPadPro, [00000AA168312A00][00000AA1685A5000 50] iPadAir3, [00000AA168313D40][00000AA1685AA000 50] iPadAir4, [00000AA168315240][00000AA1685AC800 50] iPadMini4, [00000AA1683155C0][00000AA145F25000 50] iPadMini5, [00000AA168312D80][00000AA1685B0000 50] iPadMini6, [00000AA168319BC0][00000AA1685BA000 50] iPhone6S, [00000AA168319F40][00000AA1685B7800 50] iPhone7, [00000AA16831A2C0][00000AA1685B5000 50] iPodTouch7, [00000AA168314600][00000AA1685BC800 50] iPhone6SPlus, [00000AA168319140][00000AA1685A2800 50] iPhone7Plus, [00000AA1683140C0][00000AA1685D0000 50] iPhoneSE, [00000AA168313F00][00000AA1685D5000 50] iPhone8, [00000AA1683194C0][00000AA1685D7800 50] iPhone8Plus, [00000AA168311340][00000AA1685DA000 50] iPhoneX, [00000AA168313800][00000AA1685DC800 50] iPhoneXS, [00000AA168319300][00000AA1685B2800 50] iPhoneXSMax, [00000AA168316200][00000AA1685E0000 50] iPhoneXR, [00000AA168313640][00000AA1685E5000 50] iPhone11, [00000AA168318DC0][00000AA1685E7800 50] iPhone11Pro, [00000AA16831A9C0][00000AA1685EA000 50] iPhone11ProMax, [00000AA168319A00][00000AA1685EC800 50] iPhoneSE2, [00000AA16831A100][00000AA1685D2800 50] iPhone12Mini, [00000AA168316E40][00000AA168600000 50] iPhone12, [00000AA168317380][00000AA168605000 50] iPhone12Pro, [00000AA1683171C0][00000AA168607800 50] iPhone12ProMax, [00000AA168316900][00000AA16860A000 50] iPhone13Mini, [00000AA16831A800][00000AA16860C800 50] iPhone13, [00000AA168318C00][00000AA1685E2800 50] iPhone13Pro, [00000AA168311DC0][00000AA168610000 50] iPhone13ProMax, [00000AA168311C00][00000AA168615000 50] iPadPro105, [00000AA168311F80][00000AA168617800 50] iPadPro129, [00000AA168319840][00000AA16861A000 50] iPadPro97, [00000AA1683132C0][00000AA16861C800 50] iPadPro2_129, [00000AA168317E00][00000AA168602800 50] iPad5, [00000AA168314280][00000AA168620000 50] iPad6, [00000AA168312840][00000AA168625000 50] iPad7, [00000AA168316AC0][00000AA168627800 50] iPad8, [00000AA168318A40][00000AA16862A000 50] iPad9, [00000AA16831A480][00000AA16862C800 50] iPadPro11, [00000AA168314EC0][00000AA168612800 50] iPadPro2_11, [00000AA168317FC0][00000AA168630000 50] iPadPro3_11, [00000AA168317000][00000AA168635000 50] iPadPro3_129, [00000AA168312F40][00000AA168637800 50] iPadPro4_129, [00000AA1683139C0][00000AA16863A000 50] iPadPro5_129, [00000AA168314980][00000AA16863C800 50] AppleTV, [00000AA168319D80][00000AA168622800 50] AppleTV4K, [00000AA168315940][00000AA168570000 50] TVOS, [00000AA16831B980][00000AA168577800 50] Mac, [00000AA16831B7C0][00000AA168575000 50] MacEditor, [00000AA168313B80][00000AA16857A000 50] MacClient, [00000AA16831B0C0][00000AA16857C800 50] MacServer, [00000AA16831C080][00000AA168650000 50] Linux, [00000AA16831C400][00000AA168652800 50] LinuxEditor, [00000AA168318340][00000AA168657800 50] LinuxArm64Editor, [00000AA16831B280][00000AA16865A000 50] LinuxArm64, [00000AA168315B00][00000AA16865C800 50] LinuxClient, [00000AA16831BD00][00000AA168632800 50] LinuxArm64Client, [00000AA16831B600][00000AA168655000 50] LinuxServer, [00000AA168312BC0][00000AA1685F0000 50] LinuxArm64Server, [00000AA16831BB40][00000AA1685F5000 50] Android, [00000AA16831C780][00000AA1685F7800 50] Android_Preview_OpenGL, [00000AA16831C5C0][00000AA1685FA000 50] Android_Preview_Vulkan, [00000AA16831AF00][00000AA1685FC800 50] Android_Low, [00000AA168315080][00000AA168572800 50] Android_Mid, [00000AA16831B440][00000AA168660000 50] Android_High, [00000AA168313480][00000AA168665000 50] Android_Default, [00000AA168313100][00000AA168667800 50] Android_Adreno4xx, [00000AA168317A80][00000AA16866A000 50] Android_Adreno5xx_Low, [00000AA16831CB00][00000AA16866C800 50] Android_Adreno5xx, [00000AA1683178C0][00000AA1685F2800 50] Android_Adreno6xx, [00000AA168319680][00000AA168670000 50] Android_Adreno6xx_Vulkan, [00000AA168316740][00000AA168675000 50] Android_Adreno7xx, [00000AA168318880][00000AA168677800 50] Android_Adreno7xx_Vulkan, [00000AA168314440][00000AA16867A000 50] Android_Mali_T6xx, [00000AA16831C940][00000AA16867C800 50] Android_Mali_T7xx, [00000AA168312140][00000AA168662800 50] Android_Mali_T8xx, [00000AA16831A640][00000AA168680000 50] Android_Mali_G71, [00000AA168318180][00000AA168685000 50] Android_Mali_G72, [00000AA168311500][00000AA168687800 50] Android_Mali_G72_Vulkan, [00000AA16831CCC0][00000AA16868A000 50] Android_Mali_G76, [00000AA168314D00][00000AA16868C800 50] Android_Mali_G76_Vulkan, [00000AA168318500][00000AA168672800 50] Android_Mali_G77, [00000AA16831CE80][00000AA168690000 50] Android_Mali_G77_Vulkan, [00000AA168318F80][00000AA168695000 50] Android_Mali_G78, [00000AA168317700][00000AA168697800 50] Android_Mali_G78_Vulkan, [00000AA1683186C0][00000AA16869A000 50] Android_Mali_G710, [00000AA16831D040][00000AA16869C800 50] Android_Mali_G710_Vulkan, [00000AA1683147C0][00000AA168682800 50] Android_Xclipse_920, [00000AA16831D200][00000AA1686A0000 50] Android_Xclipse_920_Vulkan, [00000AA16831DC80][00000AA1686A5000 50] Android_Vulkan_SM5, [00000AA1683124C0][00000AA1686A7800 50] Android_PowerVR_G6xxx, [00000AA16831DE40][00000AA1686AA000 50] Android_PowerVR_GT7xxx, [00000AA16831AD40][00000AA1686AC800 50] Android_PowerVR_GE8xxx, [00000AA168314B40][00000AA168692800 50] Android_PowerVR_GM9xxx, [00000AA16831E000][00000AA1686B0000 50] Android_PowerVR_GM9xxx_Vulkan, [00000AA16831D900][00000AA1686B5000 50] Android_TegraK1, [00000AA16831EC40][00000AA1686B7800 50] Android_Unknown_Vulkan, [00000AA16831EA80][00000AA1686BA000 50] Oculus_Quest, [00000AA16831E8C0][00000AA1686BC800 50] Oculus_Quest2, [00000AA16831EE00][00000AA1686A2800 50] HoloLens, 
+[2022.08.24-21.52.09:289][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.24-21.52.09:293][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.24-21.52.09:294][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.24-21.52.09:294][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.24-21.52.09:294][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.24-21.52.09:294][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.24-21.52.09:294][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.24-21.52.09:294][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.24-21.52.09:319][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.24-21.52.09:532][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.24-21.52.09:532][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.24-21.52.09:532][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.24-21.52.09:532][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.24-21.52.09:532][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.24-21.52.09:551][  0]LogNetVersion: GarageWreckage 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 576885363)
+[2022.08.24-21.52.09:752][  0]LogSlate: Border
+[2022.08.24-21.52.09:752][  0]LogSlate: BreadcrumbButton
+[2022.08.24-21.52.09:752][  0]LogSlate: Default
+[2022.08.24-21.52.09:752][  0]LogSlate: Icons.Save
+[2022.08.24-21.52.09:752][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.24-21.52.09:752][  0]LogSlate: ListView
+[2022.08.24-21.52.09:752][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.24-21.52.09:752][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.24-21.52.09:752][  0]LogSlate: TableView.DarkRow
+[2022.08.24-21.52.09:752][  0]LogSlate: TableView.Row
+[2022.08.24-21.52.09:752][  0]LogSlate: TreeView
+[2022.08.24-21.52.09:947][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.09:983][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.09:983][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.10:117][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.24-21.52.10:117][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.24-21.52.10:117][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.24-21.52.10:535][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 465C23EC48A4C65CE02484AB019AA948 | Instance: 30CC30F8438C960D6CCB948635D49D16 (CHELBSIK-NB-7952).
+[2022.08.24-21.52.10:586][  0]LogPython: Using Python 3.9.7
+[2022.08.24-21.52.11:405][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.24-21.52.11:434][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.24-21.52.11:542][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.11:623][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.11:775][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.11:779][  0]LogUProjectInfo: Found projects:
+[2022.08.24-21.52.11:781][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.24-21.52.11:782][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.24-21.52.11:782][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.24-21.52.11:900][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.24-21.52.11:964][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.24-21.52.11:994][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.24-21.52.11:994][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.24-21.52.12:106][  0]LogCollectionManager: Loaded 0 collections in 0.002392 seconds
+[2022.08.24-21.52.12:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Saved/Collections/' took 0.00s
+[2022.08.24-21.52.12:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/Developers/ChelbsikNB/Collections/' took 0.00s
+[2022.08.24-21.52.12:208][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/Collections/' took 0.00s
+[2022.08.24-21.52.12:524][  0]LogEngine: Initializing Engine...
+[2022.08.24-21.52.12:540][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.24-21.52.12:542][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.24-21.52.12:834][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.24-21.52.12:834][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.24-21.52.12:848][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.24-21.52.12:884][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.24-21.52.12:885][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.24-21.52.12:912][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.24-21.52.12:913][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.24-21.52.12:913][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.24-21.52.12:913][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.24-21.52.12:913][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.24-21.52.12:913][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.24-21.52.12:913][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.24-21.52.12:914][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.24-21.52.12:914][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.24-21.52.12:914][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.24-21.52.12:922][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.24-21.52.12:971][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.24-21.52.12:971][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.24-21.52.12:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.24-21.52.12:973][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.24-21.52.12:974][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.24-21.52.12:974][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.24-21.52.12:977][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.24-21.52.12:977][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.24-21.52.12:977][  0]LogInit: FAudioDevice initialized.
+[2022.08.24-21.52.12:977][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.24-21.52.12:977][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.24-21.52.12:977][  0]LogInit: Texture streaming: Enabled
+[2022.08.24-21.52.13:018][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.24-21.52.13:029][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.24-21.52.13:056][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.24-21.52.13:065][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.24-21.52.13:065][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.24-21.52.14:380][  0]LogLiveCoding: Display: First instance in process group "UE_GarageWreckage_0x43be2be9", spawning console
+[2022.08.24-21.52.14:380][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.24-21.52.14:380][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.24-21.52.14:384][  0]LogInit: Transaction tracking system initialized
+[2022.08.24-21.52.14:482][  0]BlueprintLog: New page: Editor Load
+[2022.08.24-21.52.14:749][  0]LocalizationService: Localization service is disabled
+[2022.08.24-21.52.14:810][  0]TimingProfiler: Initialize
+[2022.08.24-21.52.14:811][  0]TimingProfiler: OnSessionChanged
+[2022.08.24-21.52.14:811][  0]LoadingProfiler: Initialize
+[2022.08.24-21.52.14:811][  0]LoadingProfiler: OnSessionChanged
+[2022.08.24-21.52.14:811][  0]NetworkingProfiler: Initialize
+[2022.08.24-21.52.14:811][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.24-21.52.14:811][  0]MemoryProfiler: Initialize
+[2022.08.24-21.52.14:811][  0]MemoryProfiler: OnSessionChanged
+[2022.08.24-21.52.15:059][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.24-21.52.15:060][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.24-21.52.15:060][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.08.24-21.52.15:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/' took 0.00s
+[2022.08.24-21.52.15:638][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.24-21.52.15:758][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.24-21.52.15:763][  0]SourceControl: Source control is disabled
+[2022.08.24-21.52.15:764][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.895
+[2022.08.24-21.52.15:767][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.08.24-21.52.15:775][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.08.24-21.52.15:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.08.24-21.52.15:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.08.24-21.52.15:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.08.24-21.52.15:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.08.24-21.52.15:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.08.24-21.52.15:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.08.24-21.52.15:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.08.24-21.52.15:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.08.24-21.52.15:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.08.24-21.52.15:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.08.24-21.52.15:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.08.24-21.52.15:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.08.24-21.52.15:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.08.24-21.52.15:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.08.24-21.52.15:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.08.24-21.52.15:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.08.24-21.52.15:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/StarterMap.umap"
+[2022.08.24-21.52.15:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.08.24-21.52.15:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.08.24-21.52.15:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.08.24-21.52.15:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.08.24-21.52.16:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.08.24-21.52.16:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.08.24-21.52.16:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.08.24-21.52.16:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Fire01.uasset"
+[2022.08.24-21.52.16:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.08.24-21.52.16:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.08.24-21.52.16:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.08.24-21.52.16:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Light01.uasset"
+[2022.08.24-21.52.16:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.08.24-21.52.16:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Light02.uasset"
+[2022.08.24-21.52.16:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.08.24-21.52.16:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.08.24-21.52.16:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.08.24-21.52.16:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.08.24-21.52.16:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.08.24-21.52.16:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.08.24-21.52.16:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.08.24-21.52.16:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.08.24-21.52.16:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.08.24-21.52.16:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Steam01.uasset"
+[2022.08.24-21.52.16:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.08.24-21.52.16:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.08.24-21.52.16:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.08.24-21.52.16:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.08.24-21.52.16:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.08.24-21.52.16:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.08.24-21.52.16:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.08.24-21.52.16:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.08.24-21.52.16:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.08.24-21.52.16:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.08.24-21.52.16:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.08.24-21.52.16:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.08.24-21.52.16:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.08.24-21.52.16:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.08.24-21.52.16:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.08.24-21.52.16:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.08.24-21.52.16:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.08.24-21.52.16:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.08.24-21.52.16:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.08.24-21.52.16:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.08.24-21.52.16:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Door.uasset"
+[2022.08.24-21.52.16:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.08.24-21.52.16:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.08.24-21.52.16:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.08.24-21.52.16:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.08.24-21.52.16:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.08.24-21.52.16:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.08.24-21.52.16:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.08.24-21.52.16:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.08.24-21.52.16:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.08.24-21.52.16:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.08.24-21.52.16:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.08.24-21.52.16:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.08.24-21.52.16:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.08.24-21.52.16:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.08.24-21.52.16:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.08.24-21.52.16:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.08.24-21.52.16:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.08.24-21.52.16:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.08.24-21.52.16:403][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.08.24-21.52.16:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.08.24-21.52.16:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.08.24-21.52.16:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.08.24-21.52.16:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.08.24-21.52.16:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.08.24-21.52.16:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.08.24-21.52.16:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.08.24-21.52.16:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.08.24-21.52.16:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.08.24-21.52.16:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.08.24-21.52.16:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.08.24-21.52.16:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.08.24-21.52.16:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.08.24-21.52.16:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.08.24-21.52.16:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.08.24-21.52.16:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.08.24-21.52.16:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.08.24-21.52.16:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.08.24-21.52.16:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.08.24-21.52.16:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.08.24-21.52.16:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.08.24-21.52.16:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.08.24-21.52.16:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.08.24-21.52.16:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.08.24-21.52.16:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.08.24-21.52.16:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.08.24-21.52.16:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.08.24-21.52.16:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.08.24-21.52.16:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.08.24-21.52.16:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.08.24-21.52.16:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.08.24-21.52.16:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.08.24-21.52.16:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.08.24-21.52.16:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.08.24-21.52.16:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.08.24-21.52.16:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.08.24-21.52.16:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.08.24-21.52.16:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.08.24-21.52.16:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.08.24-21.52.16:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.08.24-21.52.16:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.08.24-21.52.16:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.08.24-21.52.16:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.08.24-21.52.16:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.08.24-21.52.16:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.08.24-21.52.16:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.08.24-21.52.16:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.08.24-21.52.16:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.08.24-21.52.16:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.08.24-21.52.16:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.08.24-21.52.16:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.08.24-21.52.16:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.08.24-21.52.16:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.08.24-21.52.16:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.08.24-21.52.16:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.08.24-21.52.16:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.08.24-21.52.16:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.08.24-21.52.16:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.08.24-21.52.16:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.08.24-21.52.16:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.08.24-21.52.16:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.08.24-21.52.16:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.08.24-21.52.16:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.08.24-21.52.16:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.08.24-21.52.16:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.08.24-21.52.16:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.08.24-21.52.16:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.08.24-21.52.17:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.08.24-21.52.17:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.08.24-21.52.17:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.08.24-21.52.17:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.08.24-21.52.17:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.08.24-21.52.17:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.08.24-21.52.17:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.08.24-21.52.17:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.08.24-21.52.17:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.08.24-21.52.17:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.08.24-21.52.17:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.08.24-21.52.17:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.08.24-21.52.17:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.08.24-21.52.17:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.08.24-21.52.17:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.08.24-21.52.17:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.08.24-21.52.17:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.08.24-21.52.17:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.08.24-21.52.17:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.08.24-21.52.17:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.08.24-21.52.17:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.08.24-21.52.17:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.08.24-21.52.17:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.08.24-21.52.17:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.08.24-21.52.17:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.08.24-21.52.17:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.08.24-21.52.17:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.08.24-21.52.17:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.08.24-21.52.17:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.08.24-21.52.17:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.08.24-21.52.17:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.08.24-21.52.17:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.08.24-21.52.17:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.08.24-21.52.17:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.08.24-21.52.17:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.08.24-21.52.17:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.08.24-21.52.17:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.08.24-21.52.17:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.08.24-21.52.17:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.08.24-21.52.17:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.08.24-21.52.17:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.08.24-21.52.17:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.08.24-21.52.17:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.08.24-21.52.17:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.08.24-21.52.17:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.08.24-21.52.17:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.08.24-21.52.17:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.08.24-21.52.17:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.08.24-21.52.17:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.08.24-21.52.17:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.08.24-21.52.17:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.08.24-21.52.17:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.08.24-21.52.17:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.08.24-21.52.17:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.08.24-21.52.17:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.08.24-21.52.17:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.08.24-21.52.17:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.08.24-21.52.17:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.08.24-21.52.17:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.08.24-21.52.17:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.08.24-21.52.17:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.08.24-21.52.18:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.08.24-21.52.18:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.08.24-21.52.18:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.08.24-21.52.18:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.08.24-21.52.18:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.08.24-21.52.18:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.08.24-21.52.18:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.08.24-21.52.18:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.08.24-21.52.18:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.08.24-21.52.18:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.08.24-21.52.18:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.08.24-21.52.18:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.08.24-21.52.18:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.08.24-21.52.18:152][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.08.24-21.52.18:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.08.24-21.52.18:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.08.24-21.52.18:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.08.24-21.52.18:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.08.24-21.52.18:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.08.24-21.52.18:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.08.24-21.52.18:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.08.24-21.52.18:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.08.24-21.52.18:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.08.24-21.52.18:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.08.24-21.52.18:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.08.24-21.52.18:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.08.24-21.52.18:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.08.24-21.52.18:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.08.24-21.52.18:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.08.24-21.52.18:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.08.24-21.52.18:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.08.24-21.52.18:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.08.24-21.52.18:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.08.24-21.52.18:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.08.24-21.52.18:563][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.08.24-21.52.18:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.08.24-21.52.18:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.08.24-21.52.18:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.08.24-21.52.18:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.08.24-21.52.18:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.08.24-21.52.18:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.08.24-21.52.18:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.08.24-21.52.18:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.08.24-21.52.18:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.08.24-21.52.18:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.08.24-21.52.18:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.08.24-21.52.18:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.08.24-21.52.18:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.08.24-21.52.18:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.08.24-21.52.18:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.08.24-21.52.18:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.08.24-21.52.18:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.08.24-21.52.18:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.08.24-21.52.18:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.08.24-21.52.18:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.08.24-21.52.18:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.08.24-21.52.18:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.08.24-21.52.18:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.08.24-21.52.18:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.08.24-21.52.18:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.08.24-21.52.18:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.08.24-21.52.18:748][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.24-21.52.19:402][  0]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.050915 seconds
+[2022.08.24-21.52.19:405][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2022.08.24-21.52.19:405][  0]LogSavePackage: Moving '../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Saved/Floor_400x4003F4487C0406E7DC18DE8689B26382D5F.tmp' to '../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.08.24-21.52.19:407][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.08.24-21.52.19:409][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.24-21.52.19:409][  0]LightingResults: New page: Lighting Build
+[2022.08.24-21.52.19:417][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.24-21.52.19:417][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.24-21.52.19:417][  0]MapCheck: New page: Map Check
+[2022.08.24-21.52.19:418][  0]LightingResults: New page: Lighting Build
+[2022.08.24-21.52.19:424][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.24-21.52.19:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.24-21.52.19:580][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.08.24-21.52.19:588][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.08.24-21.52.19:596][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.08.24-21.52.19:616][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.24-21.52.19:616][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.24-21.52.19:616][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.24-21.52.19:617][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.24-21.52.19:621][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.24-21.52.19:629][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.08.24-21.52.19:630][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.24-21.52.19:630][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2022.08.24-21.52.19:630][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.221
+[2022.08.24-21.52.19:642][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.773
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: ================================================
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.24-21.52.19:642][  0]LogShaderCompilers: Display: ================================================
+[2022.08.24-21.52.19:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.24-21.52.19:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.24-21.52.19:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.24-21.52.19:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.24-21.52.19:920][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:920][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:921][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:921][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:922][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:922][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:924][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:924][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:924][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:925][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:925][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:925][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:926][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:926][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:927][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:927][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:928][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.24-21.52.19:928][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.24-21.52.19:928][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.24-21.52.20:074][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.24-21.52.20:078][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.24-21.52.20:100][  0]LogViewport: Scene viewport resized to 1334x894, mode Windowed.
+[2022.08.24-21.52.20:139][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.24-21.52.20:469][  0]LogStall: Startup...
+[2022.08.24-21.52.20:470][  0]LogStall: Startup complete.
+[2022.08.24-21.52.20:510][  0]LogLoad: (Engine Initialization) Total time: 15.64 seconds
+[2022.08.24-21.52.20:510][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.24-21.52.20:607][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.08.24-21.52.20:608][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.08.24-21.52.20:636][  0]LogContentStreaming: Texture pool size now 600 MB
+[2022.08.24-21.52.20:778][  1]LogAssetRegistry: Asset discovery search completed in 12.1508 seconds
+[2022.08.24-21.52.20:785][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.08.24-21.52.21:126][  3]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.24-21.52.24:708][ 95]LogSlate: Took 0.016672 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.24-21.52.24:723][ 95]LogSlate: Took 0.005814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.24-21.52.44:141][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.08.24-21.52.44:492][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:493][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:866][373]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:867][373]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:867][373]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Window_400x300.Wall_Window_400x300 should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:883][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/MaterialSphere.MaterialSphere should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:892][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:892][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:904][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:904][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame.SM_PillarFrame should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:904][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_PillarFrame300.SM_PillarFrame300 should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:904][373]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_WindowFrame.SM_WindowFrame should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:905][373]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:905][373]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:905][373]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Sphere.Shape_Sphere should be resaved to improve async compilation performance.
+[2022.08.24-21.52.44:947][373]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2022.08.24-21.52.44:947][373]Cmd: MAP LOAD FILE="../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.24-21.52.44:947][373]LightingResults: New page: Lighting Build
+[2022.08.24-21.52.44:948][373]LoadErrors: New page: Loading map: StarterMap.umap
+[2022.08.24-21.52.44:950][373]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.24-21.52.44:950][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.24-21.52.44:951][373]MapCheck: New page: Map Check
+[2022.08.24-21.52.44:951][373]LightingResults: New page: Lighting Build
+[2022.08.24-21.52.44:959][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.24-21.52.44:962][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.24-21.52.45:337][373]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.24-21.52.45:338][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.24-21.52.45:353][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.08.24-21.52.45:363][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.08.24-21.52.45:440][373]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2022.08.24-21.52.45:440][373]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.24-21.52.45:440][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.24-21.52.45:441][373]LogAIModule: Creating AISystem for world StarterMap
+[2022.08.24-21.52.45:565][373]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.24-21.52.45:579][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.24-21.52.45:582][373]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.24-21.52.45:582][373]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
+[2022.08.24-21.52.45:582][373]LogFileHelpers: Loading map 'StarterMap' took 0.634
+[2022.08.24-21.53.26:657][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.08.24-21.53.26:817][578]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2022.08.24-21.53.26:841][578]LogStaticMesh: StaticMesh /Game/StarterContent/Blueprints/Assets/SM_Arrows.SM_Arrows should be resaved to improve async compilation performance.
+[2022.08.24-21.53.26:889][578]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform should be resaved to improve async compilation performance.
+[2022.08.24-21.53.26:897][578]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Advanced_Lighting.Advanced_Lighting
+[2022.08.24-21.53.26:897][578]Cmd: MAP LOAD FILE="../../../../../../Users/Chelbsik-NB/Documents/Unreal Projects/GarageWreckage/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.24-21.53.26:898][578]LightingResults: New page: Lighting Build
+[2022.08.24-21.53.26:898][578]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2022.08.24-21.53.26:904][578]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.24-21.53.26:904][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.24-21.53.26:905][578]MapCheck: New page: Map Check
+[2022.08.24-21.53.26:905][578]LightingResults: New page: Lighting Build
+[2022.08.24-21.53.26:918][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.24-21.53.26:923][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
